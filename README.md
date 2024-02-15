@@ -1,0 +1,5 @@
+![](https://github.com/aizhan-khassenova/Vue.js-VKgame-Starcraft2/blob/main/screen1.jpg)
+![](https://github.com/aizhan-khassenova/Vue.js-VKgame-Starcraft2/blob/main/screen2.jpg)
+![](https://github.com/aizhan-khassenova/Vue.js-VKgame-Starcraft2/blob/main/screen3-1.jpg)
+![](https://github.com/aizhan-khassenova/Vue.js-VKgame-Starcraft2/blob/main/screen4.jpg)
+![](https://github.com/aizhan-khassenova/Vue.js-VKgame-Starcraft2/blob/main/screen5.jpg)
